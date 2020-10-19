@@ -1,5 +1,5 @@
 # Proyecto
-Este es el codigo de mi proyecto MagicMirror.
+Este es el codigo de  configuracion y modulos de mi proyecto MagicMirror
 
 Esta realizado gracias a MagicMirror² es de código abierto, gratuito y mantenido por un gran grupo de entusiastas.
 
